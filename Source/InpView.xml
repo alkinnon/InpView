@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONFIG>
+  <TApplication>
+    <Setup clrDlg_Color="0" cbFade_Checked="1" cbAlpha_Checked="1" FontDlg_FontName="default" FontDlg_FontSize="0" cbLocked_Checked="1" tbDelay_Position="1" FontDlg_FontColor="536870912" FontDlg_FontPitch="fpDefault" FontDlg_FontStyle="[]" cbHistory_Checked="0" FontDlg_FontHeight="0" tbOpacity_Position="0" FontDlg_FontCharSet="1" FontDlg_FontQuality="fqDefault" tbFadeRate_Position="3" rgViewMode_ItemIndex="0" cbTransparent_Checked="1" FontDlg_FontOrientation="0"/>
+  </TApplication>
+</CONFIG>
